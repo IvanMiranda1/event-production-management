@@ -55,7 +55,6 @@ The main objective was to centralize information and improve operational managem
 ## Frontend
 
 * Vue.js
-* TypeScript
 
 ## Backend
 
